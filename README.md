@@ -1,31 +1,26 @@
-# Hi there, I'm Fenil Sonani 👋
+# Fenil Sonani
 
-## 🚀 Former CTO | Software Engineer | AI Engineer
+Former CTO who likes building things that don't break.
 
-I'm passionate about building high-performance systems, neural networks, and scalable solutions that make a real impact.
+## What I do
 
-### 💼 Professional Background
-- **Former CTO** - Led technical teams and strategic technology decisions
-- **Software Development Engineer** - Building robust, scalable applications
-- **AI Engineer** - Specializing in neural networks and machine learning systems
-- Currently at **@archimedes-it**
+I write code that runs fast and doesn't crash. Previously led engineering teams at startups, now building systems and experimenting with neural networks. 
 
-### 🔧 Technologies & Expertise
-- **High-Performance Systems** - Optimizing for speed and scalability
-- **Neural Networks** - From scratch implementations to production deployments
-- **System Architecture** - Designing enterprise-grade solutions
-- **Performance Engineering** - Sub-200ms response times and efficient algorithms
+Currently working at **@archimedes-it** in New York.
 
-### 🌟 Recent Projects
-- **[OS System Components](https://github.com/fenilsonani/os-system)** - High-performance OS components with 99% faster algorithms
-- **[Neural Networks from Scratch](https://github.com/fenilsonani/neural-network-from-scratch)** - Complete implementation with NumPy, transformers, and attention mechanisms
-- **[Custom VCS](https://github.com/fenilsonani/vcs)** - High-performance Git implementation in Go
+## Things I've built
 
-### 🌐 Connect with Me
-- **Website**: [fenilsonani.com](https://fenilsonani.com/)
-- **Twitter**: [@fenilsonani](https://twitter.com/fenilsonani)
-- **Location**: New York, US
-- **Status**: Open to opportunities
+**[OS Components](https://github.com/fenilsonani/os-system)** - Memory managers and schedulers in C  
+**[Neural Network Library](https://github.com/fenilsonani/neural-network-from-scratch)** - NumPy-based implementation with transformers  
+**[Version Control System](https://github.com/fenilsonani/vcs)** - Git clone written in Go  
 
----
-*Building the future, one algorithm at a time* ⚡
+## Languages I use
+
+C, Go, Python, TypeScript
+
+## Find me
+
+Website: [fenilsonani.com](https://fenilsonani.com/)  
+Twitter: [@fenilsonani](https://twitter.com/fenilsonani)
+
+*Available for interesting projects*
