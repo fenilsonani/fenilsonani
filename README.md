@@ -21,9 +21,6 @@ I'm passionate about building high-performance systems, neural networks, and sca
 - **[Neural Networks from Scratch](https://github.com/fenilsonani/neural-network-from-scratch)** - Complete implementation with NumPy, transformers, and attention mechanisms
 - **[Custom VCS](https://github.com/fenilsonani/vcs)** - High-performance Git implementation in Go
 
-### 📊 GitHub Stats
-![Fenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenilsonani&show_icons=true&theme=dark)
-
 ### 🌐 Connect with Me
 - **Website**: [fenilsonani.com](https://fenilsonani.com/)
 - **Twitter**: [@fenilsonani](https://twitter.com/fenilsonani)
