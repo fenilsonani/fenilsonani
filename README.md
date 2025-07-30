@@ -1,9 +1,5 @@
 # Hey, I'm Fenil 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Former+CTO+%7C+Code+Architect;Building+things+that+actually+work;Neural+networks+%26+system+hacker;Always+debugging+something..." alt="Typing SVG" />
-</div>
-
 ## 🔥 Current Status
 ```python
 class Fenil:
