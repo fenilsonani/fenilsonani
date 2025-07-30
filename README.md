@@ -47,25 +47,47 @@ Version control system because why not reinvent the wheel?
 
 </div>
 
-## 📊 When I'm not sleeping...
+## 📊 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fenilsonani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+```text
+Mon  ████████████████████████████  28 commits
+Tue  ██████████████████████████    24 commits  
+Wed  ██████████████████████        22 commits
+Thu  ███████████████████████████   27 commits
+Fri  ████████████████████████████  30 commits
+Sat  ███████████████               15 commits
+Sun  ██████████                    10 commits
+```
+
+**Most productive:** Fridays at 2 AM ☕  
+**Language of choice:** Whatever solves the problem  
+**Debugging status:** Always  
+
 </div>
 
-## 💭 Random Dev Thoughts
+## 💭 Current Mood
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+| **Today I'm feeling like...** |
+|:------------------------------:|
+| *"There are only 10 types of people in the world: those who understand binary and those who don't"* |
+| *"It works on my machine"* ¯\\_(ツ)_/¯ |
+| *"99 little bugs in the code, 99 little bugs... Take one down, patch it around, 127 little bugs in the code"* |
+
+**Currently debugging:** Why my neural network thinks everything is a hotdog 🌭
+
 </div>
 
-## 🎯 Fun Facts About Me
+## 🎯 Random Developer Facts
 
-- 🐛 I debug code in my dreams
-- ☕ My code-to-coffee ratio is 1:3
-- 🎮 Built a neural network to play Snake (it's terrible at it)
-- 📚 Read computer science papers for fun (yes, really)
-- 🚀 Once optimized a function to run 99% faster (the rest took months)
+- 🧠 I think in algorithms and dream in stack traces
+- ⚡ Optimized a memory allocator that runs 50x faster than malloc
+- 🔍 Read academic papers on neural architectures during lunch breaks
+- 🎮 Built an AI that plays games (spoiler: it loses to humans)
+- 📈 Former CTO who still writes code because management meetings are scary
 
 ## 📬 Let's Connect!
 
